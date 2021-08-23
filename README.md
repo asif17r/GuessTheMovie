@@ -10,6 +10,6 @@ This is a game where you guess movie characters in movie names.
  - You can play multiple game and scores from all games will be added to your Total Score
  
 Here is a fast-forwarded gif of the game
-![GuessTheMovie](https://i.ibb.co/pXMsgq7/farhan.gif)
+![GuessTheMovie](https://i.ibb.co/S7kJFTz/ezgif-com-gif-maker-2.gif)
  
 You can see a video of running this application [Here](https://youtu.be/zNsT_BCwFec)
